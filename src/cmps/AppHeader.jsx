@@ -6,7 +6,7 @@ export function AppHeader() {
     return (
         <header className="app-header">
             <div className="header-content flex j-between main-layout a-center">
-                <div className="logo a-center"><Link to="/">Logo</Link></div>
+                <div className="logo a-center"><Link to="/">Logos</Link></div>
                 {/* <div className="logo"><Link to="/"><img src={logo} alt=""/></Link></div> */}
                 <nav>
                     <ul className="nav-sect flex clean-list">
