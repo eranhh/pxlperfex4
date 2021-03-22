@@ -2,8 +2,6 @@
   "name": "template-app",
   "version": "0.1.0",
   "private": true,
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
   "homepage": "http://eranhh.github.io/pxlperfex4/",
   "dependencies": {
     "-": "0.0.1",
