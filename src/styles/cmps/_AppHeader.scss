@@ -1,0 +1,16 @@
+.app-header {
+    background-color: gainsboro;
+    // padding: 5vh 0;
+    // height: 10vh;
+
+    .header-content { 
+        // padding: 3vh 0;
+        height: 10vh;
+
+        .nav-sect {
+            li:not(:last-child) {
+                margin-inline-end: 30px;
+            }
+        }
+    }
+}
