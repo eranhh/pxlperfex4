@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/eranhh.github.io/pxlperfex4/static/css/main.9b47b80d.chunk.css",
-    "main.js": "/eranhh.github.io/pxlperfex4/static/js/main.c53c44c1.chunk.js",
-    "main.js.map": "/eranhh.github.io/pxlperfex4/static/js/main.c53c44c1.chunk.js.map",
-    "runtime-main.js": "/eranhh.github.io/pxlperfex4/static/js/runtime-main.b6d603c3.js",
-    "runtime-main.js.map": "/eranhh.github.io/pxlperfex4/static/js/runtime-main.b6d603c3.js.map",
-    "static/js/2.6c4a73e2.chunk.js": "/eranhh.github.io/pxlperfex4/static/js/2.6c4a73e2.chunk.js",
-    "static/js/2.6c4a73e2.chunk.js.map": "/eranhh.github.io/pxlperfex4/static/js/2.6c4a73e2.chunk.js.map",
-    "static/js/3.4772c67d.chunk.js": "/eranhh.github.io/pxlperfex4/static/js/3.4772c67d.chunk.js",
-    "static/js/3.4772c67d.chunk.js.map": "/eranhh.github.io/pxlperfex4/static/js/3.4772c67d.chunk.js.map",
-    "index.html": "/eranhh.github.io/pxlperfex4/index.html",
-    "service-worker.js": "/eranhh.github.io/pxlperfex4/service-worker.js",
-    "service-worker.js.map": "/eranhh.github.io/pxlperfex4/service-worker.js.map",
-    "static/css/main.9b47b80d.chunk.css.map": "/eranhh.github.io/pxlperfex4/static/css/main.9b47b80d.chunk.css.map",
-    "static/js/2.6c4a73e2.chunk.js.LICENSE.txt": "/eranhh.github.io/pxlperfex4/static/js/2.6c4a73e2.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/eranhh.github.io/pxlperfex4/static/media/Raleway-Regular.9ade142e.ttf"
+    "main.css": "/pxlperfex4/static/css/main.7bb2a0f9.chunk.css",
+    "main.js": "/pxlperfex4/static/js/main.976aedd6.chunk.js",
+    "main.js.map": "/pxlperfex4/static/js/main.976aedd6.chunk.js.map",
+    "runtime-main.js": "/pxlperfex4/static/js/runtime-main.20a44468.js",
+    "runtime-main.js.map": "/pxlperfex4/static/js/runtime-main.20a44468.js.map",
+    "static/js/2.6c4a73e2.chunk.js": "/pxlperfex4/static/js/2.6c4a73e2.chunk.js",
+    "static/js/2.6c4a73e2.chunk.js.map": "/pxlperfex4/static/js/2.6c4a73e2.chunk.js.map",
+    "static/js/3.4772c67d.chunk.js": "/pxlperfex4/static/js/3.4772c67d.chunk.js",
+    "static/js/3.4772c67d.chunk.js.map": "/pxlperfex4/static/js/3.4772c67d.chunk.js.map",
+    "index.html": "/pxlperfex4/index.html",
+    "service-worker.js": "/pxlperfex4/service-worker.js",
+    "service-worker.js.map": "/pxlperfex4/service-worker.js.map",
+    "static/css/main.7bb2a0f9.chunk.css.map": "/pxlperfex4/static/css/main.7bb2a0f9.chunk.css.map",
+    "static/js/2.6c4a73e2.chunk.js.LICENSE.txt": "/pxlperfex4/static/js/2.6c4a73e2.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/pxlperfex4/static/media/Raleway-Regular.9ade142e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6d603c3.js",
+    "static/js/runtime-main.20a44468.js",
     "static/js/2.6c4a73e2.chunk.js",
-    "static/css/main.9b47b80d.chunk.css",
-    "static/js/main.c53c44c1.chunk.js"
+    "static/css/main.7bb2a0f9.chunk.css",
+    "static/js/main.976aedd6.chunk.js"
   ]
 }
